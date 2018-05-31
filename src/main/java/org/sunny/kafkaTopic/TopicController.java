@@ -10,6 +10,9 @@ import scala.collection.JavaConversions;
 import java.util.*;
 
 
+/**
+ * 关于topic的创建、修改、查询
+ */
 public class TopicController {
 
     public TopicController(){
